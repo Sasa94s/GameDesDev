@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Super Sparty Bros", "UnityVS.Super Sparty Bros.csproj", "{3AC2B1D6-6DC0-8DBD-D411-D734B6D0CB05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Super Sparty Bros.Editor", "UnityVS.Super Sparty Bros.Editor.csproj", "{5210B39F-B187-CF0F-63D0-41D12CFFCD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC2B1D6-6DC0-8DBD-D411-D734B6D0CB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC2B1D6-6DC0-8DBD-D411-D734B6D0CB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC2B1D6-6DC0-8DBD-D411-D734B6D0CB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC2B1D6-6DC0-8DBD-D411-D734B6D0CB05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5210B39F-B187-CF0F-63D0-41D12CFFCD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5210B39F-B187-CF0F-63D0-41D12CFFCD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5210B39F-B187-CF0F-63D0-41D12CFFCD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5210B39F-B187-CF0F-63D0-41D12CFFCD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

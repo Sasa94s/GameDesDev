@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Sparty Bros.Plugins", "Super Sparty Bros.Plugins.csproj", "{9698C100-E91F-972A-B12F-C03644C7CFE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Sparty Bros", "Super Sparty Bros.csproj", "{BCB4CC7E-15D9-CD29-2716-72269AA3770E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Sparty Bros.Editor.Plugins", "Super Sparty Bros.Editor.Plugins.csproj", "{5DB3AC0B-6674-F864-E399-C6999D46AF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Sparty Bros.Editor", "Super Sparty Bros.Editor.csproj", "{86E86394-5C0B-02A2-0638-1E9242553DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9698C100-E91F-972A-B12F-C03644C7CFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9698C100-E91F-972A-B12F-C03644C7CFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9698C100-E91F-972A-B12F-C03644C7CFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9698C100-E91F-972A-B12F-C03644C7CFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB4CC7E-15D9-CD29-2716-72269AA3770E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB4CC7E-15D9-CD29-2716-72269AA3770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB4CC7E-15D9-CD29-2716-72269AA3770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB4CC7E-15D9-CD29-2716-72269AA3770E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB3AC0B-6674-F864-E399-C6999D46AF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB3AC0B-6674-F864-E399-C6999D46AF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB3AC0B-6674-F864-E399-C6999D46AF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB3AC0B-6674-F864-E399-C6999D46AF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E86394-5C0B-02A2-0638-1E9242553DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E86394-5C0B-02A2-0638-1E9242553DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E86394-5C0B-02A2-0638-1E9242553DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E86394-5C0B-02A2-0638-1E9242553DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
